@@ -6,6 +6,7 @@ references:
     - https://feeds.alphasoc.net/bad-etlds.txt
 author: Norbert Jaśniewicz (AlphaSOC)
 date: 2025-08-04
+modified: '2025-11-14'
 tags:
     - attack.command-and-control
     - attack.t1071.004
@@ -16,26 +17,26 @@ logsource:
 detection:
     selection:
         query|endswith:
-            - '.duckdns.org'
-            - '.top'
+            - '.asia'
+            - '.biz'
+            - '.cc'
+            - '.cyou'
             - '.ddns.net'
+            - '.duckdns.org'
+            - '.dynuddns.com'
             - '.gl.at.ply.gg'
-            - '.portmap.io'
             - '.icu'
-            - '.zapto.org'
             - '.live'
-            - '.hopto.org'
+            - '.no-ip.biz'
             - '.portmap.host'
             - '.sbs'
-            - '.sytes.net'
-            - '.click'
-            - '.ydns.eu'
             - '.site'
-            - '.cloud'
-            - '.no-ip.org'
-            - '.kozow.com'
-            - '.lat'
-            - '.pro'
+            - '.su'
+            - '.sytes.net'
+            - '.top'
+            - '.vip'
+            - '.ydns.eu'
+            - '.zapto.org'
     condition: selection
 falsepositives:
     - Unknown
