@@ -673,6 +673,7 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defe
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-exploit-guard/attack-surface-reduction-exploit-guard?WT.mc_id=twitter
 https://docs.microsoft.com/en-us/windows/win32/adschema/attributes-all
+https://docs.microsoft.com/en-us/windows/win32/amsi/antimalware-scan-interface-portal
 https://docs.microsoft.com/en-us/windows/win32/amsi/how-amsi-helps
 https://docs.microsoft.com/en-us/windows/win32/api/minidumpapiset/nf-minidumpapiset-minidumpwritedump
 https://docs.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_core-iexecutecommand
@@ -696,6 +697,7 @@ https://docs.python.org/2/library/simplehttpserver.html
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/using/cmdline.html#cmdoption-c
 https://docs.spring.io/spring-security/site/docs/current/api/overview-tree.html
+https://docs.stellarcyber.ai/5.2.x/Using/ML/Alert-Rule-Based-Potentially_Malicious_AWS_Activity.html
 https://documentation.pdq.com/PDQDeploy/13.0.3.0/index.html?windows-services.htm
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
@@ -793,6 +795,7 @@ https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 https://gist.github.com/NickTyrer/0598b60112eaafe6d07789f7964290d5
 https://gist.github.com/roycewilliams/a723aaf8a6ac3ba4f817847610935cfb
 https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52
+https://gist.github.com/swachchhanda000/a0228130f86a2dedfbcebb415b47f870
 https://gist.github.com/teixeira0xfffff/837e5bfed0d1b0a29a7cb1e5dbdd9ca6
 https://gist.githubusercontent.com/bohops/0cc6586f205f3691e04a1ebf1806aabd/raw/baf7b29891bb91e76198e30889fbf7d6642e8974/calc_exe.inf
 https://gist.githubusercontent.com/MichaelKoczwara/12faba9c061c12b5814b711166de8c2f/raw/e2068486692897b620c25fde1ea258c8218fe3d3/history.txt
@@ -881,6 +884,7 @@ https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 https://github.com/CCob/MirrorDump
 https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/bf62ece1c679b07b5fb49c4bae947fe24c81811f/fin6/Emulation_Plan/Phase1.md
 https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/personality-syscall/README.md
+https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/sysinfo-syscall/README.md
 https://github.com/CICADA8-Research/RemoteKrbRelay
 https://github.com/CICADA8-Research/RemoteKrbRelay/blob/19ec76ba7aa50c2722b23359bc4541c0a9b2611c/Exploit/RemoteKrbRelay/Relay/Attacks/RemoteRegistry.cs#L31-L40
 https://github.com/Cisco-Talos/IOCs/tree/80caca039988252fbb3f27a2e89c2f2917f582e0/2022/11
@@ -1128,6 +1132,7 @@ https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack/tree/master/TA0008-Lateral
 https://github.com/mdsecactivebreach/CACTUSTORCH
 https://github.com/med0x2e/vba2clr
 https://github.com/mgeeky/Stracciatella
+https://github.com/mhaskar/FsquirtCPLPoC
 https://github.com/MichaelGrafnetter/DSInternals/blob/39ee8a69bbdc1cfd12c9afdd7513b4788c4895d4/Src/DSInternals.Common/Data/DPAPI/DPAPIBackupKey.cs#L28-L32
 https://github.com/MichaelGrafnetter/DSInternals/blob/39ee8a69bbdc1cfd12c9afdd7513b4788c4895d4/Src/DSInternals.PowerShell/DSInternals.psd1
 https://github.com/MichaelGrafnetter/DSInternals/blob/7ba59c12ee9a1cb430d7dc186a3366842dd612c8/Documentation/PowerShell/Get-ADDBAccount.md
@@ -1749,6 +1754,7 @@ https://hashcat.net/wiki/doku.php?id=hashcat
 https://hatching.io/blog/powershell-analysis/
 https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/
 https://help.duo.com/s/article/6327?language=en_US
+https://help.fortinet.com/fsiem/Public_Resource_Access/7_2_1/rules/PH_RULE_AWS_Management_Console_Brute_Force_of_Root_User_Identity.htm
 https://help.okta.com/en-us/Content/Topics/users-groups-profiles/usgp-create-character-restriction.htm
 https://hijacklibs.net/
 https://hijacklibs.net/entries/3rd_party/google/chrome_frame_helper.html
@@ -1893,6 +1899,7 @@ https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/security
 https://learn.microsoft.com/en-us/azure/dns/dns-zones-records
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftkubernetes
 https://learn.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy
 https://learn.microsoft.com/en-us/defender-cloud-apps/policy-template-reference
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
@@ -2055,6 +2062,7 @@ https://learn.microsoft.com/en-us/sql/odbc/odbcconf-exe?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sysinternals/downloads/livekd
+https://learn.microsoft.com/en-us/sysinternals/downloads/microsoft-store
 https://learn.microsoft.com/en-us/sysinternals/downloads/procdump
 https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
 https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
@@ -2362,6 +2370,7 @@ https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
+https://medium.com/@ninnesoturan/detecting-ipv6-dns-takeover-a54a6a88be1f
 https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
@@ -3364,6 +3373,7 @@ https://twitter.com/yorickkoster/status/1279709009151434754
 https://twitter.com/Z3Jpa29z/status/1313742350292746241?s=20
 https://twitter.com/Z3Jpa29z/status/1317545798981324801
 https://unicode-explorer.com/c/202E
+https://unicornofhunt.com/2025/05/22/When-Unicorns-Go-Quiet-BITS-Jobs-and-the-Art-of-Stealthy-Transfers/
 https://unit42.paloaltonetworks.com/actors-still-exploiting-sharepoint-vulnerability/
 https://unit42.paloaltonetworks.com/bluesky-ransomware/
 https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/
@@ -3504,9 +3514,11 @@ https://www.atomicredteam.io/atomic-red-team/atomics/T1048.003#atomic-test-8---p
 https://www.atomicredteam.io/atomic-red-team/atomics/T156001#atomic-test-46---aws---guardduty-suspension-or-deletion
 https://www.atomicredteam.io/atomic-red-team/atomics/T1562.002#atomic-test-8---modify-event-log-channel-access-permissions-via-registry---powershell
 https://www.atomicredteam.io/atomic-red-team/atomics/T1562.012
+https://www.attackiq.com/2023/09/20/emulating-rhysida/
 https://www.autohotkey.com/download/
 https://www.autoitscript.com/site/
 https://www.beyondtrust.com/blog/entry/okta-support-unit-breach
+https://www.binarly.io/blog/design-issues-of-modern-edrs-bypassing-etw-based-solutions
 https://www.binarydefense.com/analysis-of-hancitor-when-boring-begets-beacon
 https://www.binarydefense.com/resources/blog/icedid-gziploader-analysis/
 https://www.bitdefender.com/en-us/blog/businessinsights/bitdefender-advisory-critical-unauthenticated-rce-windows-server-update-services-cve-2025-59287
@@ -3655,6 +3667,7 @@ https://www.elastic.co/security-labs/grimresource
 https://www.elastic.co/security-labs/Hunting-for-Suspicious-Windows-Libraries-for-Execution-and-Evasion
 https://www.elastic.co/security-labs/operation-bleeding-bear
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
+https://www.electronjs.org/docs/latest/tutorial/native-code-and-electron
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
 https://www.epicturla.com/blog/sysinturla
@@ -3891,6 +3904,7 @@ https://www.mitiga.io/blog/mitiga-security-advisory-abusing-the-ssm-agent-as-a-r
 https://www.myantispyware.com/2020/12/14/how-to-uninstall-onelaunch-browser-removal-guide/
 https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
 https://www.n00py.io/2022/03/manipulating-user-passwords-without-mimikatz/
+https://www.nccgroup.com/us/research-blog/lapsus-recent-techniques-tactics-and-procedures/
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/cold-steel/NCSC-MAR-Cold-Steel.pdf
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/devil-bait/NCSC-MAR-Devil-Bait.pdf
@@ -3984,6 +3998,8 @@ https://www.secura.com/blog/zero-logon
 https://www.secureworks.com/blog/ransomware-as-a-distraction
 https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses
 https://www.secureworks.com/research/shadowpad-malware-analysis
+https://www.security.com/threat-intelligence/medusa-ransomware-attacks
+https://www.securityhq.com/blog/malicious-isatap-tunneling-unearthed-on-windows-server/
 https://www.securitynewspaper.com/2016/11/23/technical-teardown-exploit-malware-hwp-files/
 https://www.securitynewspaper.com/2017/03/20/attackers-leverage-excel-powershell-dns-latest-non-malware-attack/
 https://www.securonix.com/blog/cve-2022-26809-remote-procedure-call-runtime-remote-code-execution-vulnerability-and-coverage/
@@ -4230,6 +4246,7 @@ https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
 https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/
+https://www.welivesecurity.com/2020/07/16/mac-cryptocurrency-trading-application-rebranded-bundled-malware/
 https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/
 https://www.welivesecurity.com/2022/03/01/isaacwiper-hermeticwizard-wiper-worm-targeting-ukraine/
 https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/
